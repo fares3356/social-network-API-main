@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/civ187/social-network-API.git"
+    "url": "git+https://github.com/fares3356/social-network-API-main.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/civ187/social-network-API/issues"
+    "url": "https://github.com/fares3356/social-network-API-main/issues"
   },
-  "homepage": "https://github.com/civ187/social-network-API#readme",
+  "homepage": "https://github.com/fares3356/social-network-API-main#readme",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.28.0",
